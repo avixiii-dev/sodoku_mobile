@@ -183,7 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Avixiii - [@avixiii](https://twitter.com/avixiii)
+- **Email**: [contact@avixiii.com](mailto:contact@avixiii.com)
 
 Project Link: [https://github.com/avixiii-dev/sodoku_mobile](https://github.com/avixiii-dev/sodoku_mobile)
 
